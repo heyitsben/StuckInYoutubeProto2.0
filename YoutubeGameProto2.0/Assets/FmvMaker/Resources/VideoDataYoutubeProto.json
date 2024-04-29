@@ -1,0 +1,54 @@
+{
+  "VideoList": [
+    {
+      "Name": "HELP",
+      "VideoTarget": "HELP",
+      "NavigationTargets": [
+        {
+          "Name": "IsntTheVid"
+        }
+      ]
+    },
+    {
+      "Name": "TrappedInsideYoutube",
+      "VideoTarget": "TrappedInsideYoutube",
+      "NavigationTargets": [
+        {
+          "Name": "WhatIsThis"
+        }
+      ]
+    },
+    {
+      "Name": "NotAVideo",
+      "VideoTarget": "NotAVideo",
+      "NavigationTargets": [
+        {
+          "Name": "NeedSleep"
+        }
+      ]
+    },
+    {
+      "Name": "ThisIsReal",
+      "VideoTarget": "ThisIsReal",
+      "NavigationTargets": [
+        {
+          "Name": "WhyNot"
+        }
+      ]
+    },
+    {
+      "Name": "ThankYou",
+      "VideoTarget": "ThankYou",
+      "NavigationTargets": [
+        {
+          "Name": "HopeNotCrazy"
+        }
+      ]
+    },
+    {
+      "Name": "TEMP_END_REMOVE_AFTER_TEST",
+      "VideoTarget": "TEMP_END_REMOVE_AFTER_TEST",
+      "IsLooping": true
+    }
+  ]
+}

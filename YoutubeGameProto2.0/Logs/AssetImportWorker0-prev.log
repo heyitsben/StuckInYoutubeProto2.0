@@ -1,0 +1,261 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.19f1 (244b723c30a6) revision 2378610'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 32439 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/benne/OneDrive/Documents/GitHub/StuckInYoutubeProto2.0/YoutubeGameProto2.0
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62462
+Successfully changed project path to: C:/Users/benne/OneDrive/Documents/GitHub/StuckInYoutubeProto2.0/YoutubeGameProto2.0
+C:/Users/benne/OneDrive/Documents/GitHub/StuckInYoutubeProto2.0/YoutubeGameProto2.0
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [36180] Host "[IP] 172.26.27.84 [Port] 0 [Flags] 2 [Guid] 3747224456 [EditorId] 3747224456 [Version] 1048832 [Id] WindowsEditor(7,BennersLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [36180] Host "[IP] 172.26.27.84 [Port] 0 [Flags] 2 [Guid] 3747224456 [EditorId] 3747224456 [Version] 1048832 [Id] WindowsEditor(7,BennersLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 10.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.19f1 (244b723c30a6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/benne/OneDrive/Documents/GitHub/StuckInYoutubeProto2.0/YoutubeGameProto2.0/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7973 MB
+    Driver:   31.0.15.4659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006600 seconds.
+- Loaded All Assemblies, in  0.255 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.185 seconds
+Domain Reload Profiling: 438ms
+	BeginReloadAssembly (77ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (99ms)
+		LoadAssemblies (75ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (97ms)
+			TypeCache.Refresh (96ms)
+				TypeCache.ScanAssembly (87ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (185ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (145ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (97ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.490 seconds
+Refreshing native plugins compatible for Editor in 4.51 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.582 seconds
+Domain Reload Profiling: 1069ms
+	BeginReloadAssembly (115ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (305ms)
+		LoadAssemblies (245ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (106ms)
+				TypeCache.ScanAssembly (95ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (583ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (468ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 4.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 70 unused Assets / (244.6 KB). Loaded Objects now: 4557.
+Memory consumption went from 151.0 MB to 150.8 MB.
+Total: 3.208500 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.073100 ms MarkObjects: 2.783800 ms  DeleteObjects: 0.167800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 95206.419540 seconds.
+  path: Assets/FmvMaker/Resources/GUISkins/NodeEditorSkin.guiskin
+  artifactKey: Guid(bbbb442cffdf3754a8d81db005da8e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Resources/GUISkins/NodeEditorSkin.guiskin using Guid(bbbb442cffdf3754a8d81db005da8e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88176926c28bded208dad00922ffa7e') in 0.013394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.926789 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerCircleDemo_States00.PNG
+  artifactKey: Guid(eec6977f254eb6243a16d093ebc09014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerCircleDemo_States00.PNG using Guid(eec6977f254eb6243a16d093ebc09014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bce8ebab0067f8f9d6d698ae7a13f5') in 0.027539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002397 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerCircleDemo_States03.PNG
+  artifactKey: Guid(b8f658958dae8a54498c024c688fdd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerCircleDemo_States03.PNG using Guid(b8f658958dae8a54498c024c688fdd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7c3afbe3e046321a31d82d808967e9') in 0.010597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.019617 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerCursorEye.png
+  artifactKey: Guid(22b271fe5166748479b5a055e7506c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerCursorEye.png using Guid(22b271fe5166748479b5a055e7506c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfc0a68927225a64ba257dfdc5016d9') in 0.009814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.025134 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerLogo.png
+  artifactKey: Guid(6a14fe23c859679419e7bd2965391341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerLogo.png using Guid(6a14fe23c859679419e7bd2965391341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f24d1f2b7d043a990ae1ca99eaf825c') in 0.013851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/FmvMaker/Textures/VideoLoading.png
+  artifactKey: Guid(356c4c274451c654d87ac21480ece1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/VideoLoading.png using Guid(356c4c274451c654d87ac21480ece1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be65cb8e57401017df7ea5b394cbab2') in 0.046214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerDemo_KeyBindings01.png
+  artifactKey: Guid(9c149d44f1e59324c8cc172d756213a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerDemo_KeyBindings01.png using Guid(9c149d44f1e59324c8cc172d756213a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b71b14786b3a8ab3cb8a3e94f1153f5') in 0.016169 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerDemoData_SetStartVideo.PNG
+  artifactKey: Guid(59471c420eb14eb4491338ab3587eddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerDemoData_SetStartVideo.PNG using Guid(59471c420eb14eb4491338ab3587eddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144fa1cb2bd7cf7670d69791c7112b38') in 0.019278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/FmvMaker/Textures/FmvMakerLogo_icon.png
+  artifactKey: Guid(eed0fb87f7f5d57459128721faa34cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FmvMaker/Textures/FmvMakerLogo_icon.png using Guid(eed0fb87f7f5d57459128721faa34cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab58186c64d1f05cdce39365a9db4a39') in 0.013223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
