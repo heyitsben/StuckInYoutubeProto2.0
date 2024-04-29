@@ -1,0 +1,28 @@
+{
+  "OnlineVideoSourceMappingList": [
+    {
+      "Name": "UniqueVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/HELP.mp4?raw=true"
+    },
+    {
+      "Name": "NextUniqueVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/TrappedInsideYoutube.mp4?raw=true"
+    },
+    {
+      "Name": "AnotherUniqueVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/NotAVideo.mp4?raw=true"
+    },
+    {
+      "Name": "DifferentUniqueVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/ThisIsReal.mp4?raw=true"
+    },
+    {
+      "Name": "UniqueToDifferentVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/ThankYou.mp4?raw=true"
+    },
+    {
+      "Name": "UniqueIdleVideoName",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/TEMP_END_REMOVE_AFTER_TEST.mp4?raw=true"
+    }
+  ]
+}
