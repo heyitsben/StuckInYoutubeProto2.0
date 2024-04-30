@@ -5,7 +5,7 @@
       "VideoTarget": "HELP",
       "NavigationTargets": [
         {
-          "Name": "IsntTheVid"
+          "Name": "Huh? This isn’t the video I clicked on."
         }
       ]
     },
@@ -14,7 +14,7 @@
       "VideoTarget": "TrappedInsideYoutube",
       "NavigationTargets": [
         {
-          "Name": "WhatIsThis"
+          "Name": "What kind of video is this?"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "VideoTarget": "NotAVideo",
       "NavigationTargets": [
         {
-          "Name": "NeedSleep"
+          "Name": "…I think I need to get some sleep."
         }
       ]
     },
@@ -32,7 +32,7 @@
       "VideoTarget": "ThisIsReal",
       "NavigationTargets": [
         {
-          "Name": "WhyNot"
+          "Name": "You know, why not. Worst comes to worst it’s just a really weird dream."
         }
       ]
     },
@@ -41,13 +41,31 @@
       "VideoTarget": "ThankYou",
       "NavigationTargets": [
         {
-          "Name": "HopeNotCrazy"
+          "Name": "I really hope I’m not crazy. So, what do I do?"
         }
       ]
     },
     {
-      "Name": "TEMP_END_REMOVE_AFTER_TEST",
-      "VideoTarget": "TEMP_END_REMOVE_AFTER_TEST",
+      "Name": "IDontKnowIfYouNoticed",
+      "VideoTarget": "IDontKnowIfYouNoticed",
+      "NavigationTargets": [
+        {
+          "Name": "Well, do you have any thoughts on how to fix this?"
+        }
+      ]
+    },
+    {
+      "Name": "IWasHoping",
+      "VideoTarget": "IWasHoping",
+      "NavigationTargets": [
+        {
+          "Name": "StandinForTwo"
+        }
+      ]
+    },
+    {
+      "Name": "TheEnd",
+      "VideoTarget": "TheEnd",
       "IsLooping": true
     }
   ]

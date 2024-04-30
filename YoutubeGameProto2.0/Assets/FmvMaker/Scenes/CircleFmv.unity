@@ -491,7 +491,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59df1829b43b0144e8713d76fa479ada, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InventoryToogle: 105
+  InventoryToogle: 0
   inventoryElementsPanel: {fileID: 383087582}
 --- !u!114 &1005435514
 MonoBehaviour:
@@ -509,7 +509,7 @@ MonoBehaviour:
   fmvData: {fileID: 600364143}
   videoElementsPanel: {fileID: 1771585202}
   inventoryElementsPanel: {fileID: 383087582}
-  clickableObjectPrefab: {fileID: 1133256870980526, guid: 8f59b351c229fff41a2450726cdb69f2, type: 3}
+  clickableObjectPrefab: {fileID: 1133256870980526, guid: b5f01041257b8c54c8df3bc11358f69a, type: 3}
 --- !u!1 &1370328298
 GameObject:
   m_ObjectHideFlags: 0

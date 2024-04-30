@@ -1,7 +1,7 @@
 {
   "ClickableList": [
     {
-      "Name": "IsntTheVid",
+      "Name": "Huh? This isn’t the video I clicked on.",
       "Description": "Huh? This isn’t the video I clicked on.",
       "PickUpVideo": "TrappedInsideYoutube",
       "IsNavigation": true,
@@ -11,7 +11,7 @@
       }
     },
     {
-      "Name": "WhatIsThis",
+      "Name": "What kind of video is this?",
       "Description": "What kind of video is this?",
       "PickUpVideo": "NotAVideo",
       "IsNavigation": true,
@@ -21,8 +21,8 @@
       }
     },
     {
-      "Name": "NeedSleep",
-      "Description": "… I think I need to get some sleep.",
+      "Name": "…I think I need to get some sleep.",
+      "Description": "…I think I need to get some sleep.",
       "PickUpVideo": "ThisIsReal",
       "IsNavigation": true,
       "RelativeScreenPosition": {
@@ -31,7 +31,7 @@
       }
     },
     {
-      "Name": "WhyNot",
+      "Name": "You know, why not. Worst comes to worst it’s just a really weird dream.",
       "Description": "You know, why not. Worst comes to worst it’s just a really weird dream.",
       "PickUpVideo": "ThankYou",
       "IsNavigation": true,
@@ -41,14 +41,34 @@
       }
     },
     {
-      "Name": "HopeNotCrazy",
-      "Description": "God I hope I’m not crazy.",
-      "PickUpVideo": "TEMP_END_REMOVE_AFTER_TEST",
+      "Name": "I really hope I’m not crazy. So, what do I do?",
+      "Description": "I really hope I’m not crazy. So, what do I do?",
+      "PickUpVideo": "IDontKnowIfYouNoticed",
       "IsNavigation": true,
       "RelativeScreenPosition": {
         "x": 0.5,
         "y": 0.5
       }
-    }
+    },
+    {
+      "Name": "Well, do you have any thoughts on how to fix this?",
+      "Description": "Well, do you have any thoughts on how to fix this?",
+      "PickUpVideo": "IWasHoping",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+     {
+        "Name": "StandinForTwo",
+        "Description": "StandinForTwo",
+        "PickUpVideo": "TheEnd",
+        "IsNavigation": true,
+        "RelativeScreenPosition": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
   ]
 }

@@ -21,8 +21,16 @@
       "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/ThankYou.mp4?raw=true"
     },
     {
-      "Name": "TEMP_END_REMOVE_AFTER_TEST",
-      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/TEMP_END_REMOVE_AFTER_TEST.mp4?raw=true"
+      "Name": "TheEnd",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/TheEnd.mp4?raw=true"
+    },
+    {
+      "Name": "IDontKnowIfYouNoticed",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IDontKnowIfYouNoticed.mp4?raw=true"
+    },
+    {
+      "Name": "IWasHoping",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IWasHoping.mp4?raw=true"
     }
   ]
 }
