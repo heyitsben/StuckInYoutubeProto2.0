@@ -47,6 +47,34 @@
     {
       "Name": "Bye",
       "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/LogOutVids/Bye.mp4?raw=true"
+    },
+    {
+      "Name": "ALARM",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/ALARM.mp4?raw=true"
+    },
+    {
+      "Name": "AreYouInsane",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/AreYouInsane.mp4?raw=true"
+    },
+    {
+      "Name": "AreYouKiddingMe",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/AreYouKiddingMe.mp4?raw=true"
+    },
+    {
+      "Name": "ImThisClose",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/IAmThisClose.mp4?raw=true"
+    },
+    {
+      "Name": "WhatsWrongWithYou",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/WhatIsWrongWithYou.mp4?raw=true"
+    },
+    {
+      "Name": "YesItIs",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/YesItIsSTFU.mp4?raw=true"
+    },
+    {
+      "Name": "YouAskedForIt",
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/Scene1Vids/IsItBad/YouAskedForIt.mp4?raw=true"
     }
   ]
 }

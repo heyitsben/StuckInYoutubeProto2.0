@@ -59,7 +59,105 @@
       "VideoTarget": "IWasHoping",
       "NavigationTargets": [
         {
-          "Name": "StandinForTwo"
+          "Name": "Have you tried logging out?"
+        },
+        {
+          "Name": "Is it really that bad?"
+        }
+      ]
+    },
+    {
+      "Name": "CantBringMyself",
+      "VideoTarget": "CantBringMyself",
+      "NavigationTargets": [
+        {
+          "Name": "Well how did you think you were going to get out? What were you even doing?"
+        }
+      ]
+    },
+    {
+      "Name": "WatchingVideosMostly",
+      "VideoTarget": "WatchingVideosMostly",
+      "NavigationTargets": [
+        {
+          "Name": "Look, man, you’re going to have to log out eventually."
+        }
+      ]
+    },
+    {
+      "Name": "YoureRight",
+      "VideoTarget": "YoureRight",
+      "NavigationTargets": [
+        {
+          "Name": "Stop stalling."
+        }
+      ]
+    },
+    {
+      "Name": "Bye",
+      "VideoTarget": "Bye",
+      "NavigationTargets": [
+        {
+          "Name": "... I think exams are getting to me."
+        }
+      ]
+    },
+    {
+      "Name": "ALARM",
+      "VideoTarget": "ALARM",
+      "IsLooping": true
+    },
+    {
+      "Name": "AreYouInsane",
+      "VideoTarget": "AreYouInsane",
+      "NavigationTargets": [
+        {
+          "Name": "I mean..."
+        }
+      ]
+    },
+    {
+      "Name": "AreYouKiddingMe",
+      "VideoTarget": "AreYouKiddingMe",
+      "NavigationTargets": [
+        {
+          "Name": "No."
+        }
+      ]
+    },
+    {
+      "Name": "ImThisClose",
+      "VideoTarget": "ImThisClose",
+      "NavigationTargets": [
+        {
+          "Name": "Okay, do it then."
+        }
+      ]
+    },
+    {
+      "Name": "WhatsWrongWithYou",
+      "VideoTarget": "WhatsWrongWithYou",
+      "NavigationTargets": [
+        {
+          "Name": "Jerk."
+        }
+      ]
+    },
+    {
+      "Name": "YesItIs",
+      "VideoTarget": "YesItIs",
+      "NavigationTargets": [
+        {
+          "Name": "Wow, no need to be rude."
+        }
+      ]
+    },
+    {
+      "Name": "YouAskedForIt",
+      "VideoTarget": "YouAskedForIt",
+      "NavigationTargets": [
+        {
+          "Name": "What?"
         }
       ]
     },

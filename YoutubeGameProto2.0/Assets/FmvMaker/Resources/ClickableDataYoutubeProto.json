@@ -60,15 +60,125 @@
         "y": 0.5
       }
     },
-     {
-        "Name": "StandinForTwo",
-        "Description": "StandinForTwo",
-        "PickUpVideo": "TheEnd",
-        "IsNavigation": true,
-        "RelativeScreenPosition": {
-          "x": 0.5,
-          "y": 0.5
-        }
+    {
+      "Name": "Have you tried logging out?",
+      "Description": "Have you tried logging out?",
+      "PickUpVideo": "CantBringMyself",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.35
       }
+    },
+    {
+      "Name": "Well how did you think you were going to get out? What were you even doing?",
+      "Description": "Well how did you think you were going to get out? What were you even doing?",
+      "PickUpVideo": "WatchingVideosMostly",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Look, man, you’re going to have to log out eventually.",
+      "Description": "Look, man, you’re going to have to log out eventually.",
+      "PickUpVideo": "YoureRight",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Stop stalling.",
+      "Description": "Stop stalling.",
+      "PickUpVideo": "Bye",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "... I think exams are getting to me.",
+      "Description": "... I think exams are getting to me.",
+      "PickUpVideo": "TheEnd",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Is it really that bad?",
+      "Description": "Is it really that bad?",
+      "PickUpVideo": "AreYouInsane",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.65
+      }
+    },
+    {
+      "Name": "I mean...",
+      "Description": "I mean...",
+      "PickUpVideo": "YesItIs",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Wow, no need to be rude.",
+      "Description": "Wow, no need to be rude.",
+      "PickUpVideo": "ImThisClose",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Okay, do it then.",
+      "Description": "Okay, do it then.",
+      "PickUpVideo": "AreYouKiddingMe",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "No.",
+      "Description": "No.",
+      "PickUpVideo": "WhatsWrongWithYou",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "Jerk.",
+      "Description": "Jerk.",
+      "PickUpVideo": "YouAskedForIt",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "What?",
+      "Description": "What?",
+      "PickUpVideo": "ALARM",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
   ]
 }
